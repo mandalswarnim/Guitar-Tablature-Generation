@@ -1,6 +1,6 @@
 # Guitar-Tablature-Generation
 
-This technical documentation is to accompany the tabgen tablature generation system. The full source code is available on Github. Additional comments and interface documentations can be found as inline comments in the code.
+This technical documentation is to accompany the tabgen tablature generation system. The full source code is available on [Github](https://github.com/mandalswarnim/Guitar-Tablature-Generation). Additional comments and interface documentations can be found as inline comments in the code.
 
 ## Prerequisistes
 In order to fully run _tabgen_, you need to install the following software (recommended versions in brackets):
